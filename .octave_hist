@@ -1,0 +1,85 @@
+warmUpExercise
+warmUpExercise
+warmUpExercise
+warmUpExercise
+warmUpExercise
+warmUpExercise
+ex1
+ex1
+# Octave 5.1.0, Fri Jul 05 16:45:06 2019 GMT <unknown@WGD02RTI649>
+plotData
+ex2
+ex2
+ex2
+submit
+predict
+predict
+predict
+predict
+predict
+ex2
+submit
+predict
+predict(2,85)
+predict(1,45)
+submit
+predict
+predict(1,45)
+predict
+predict(1,45)
+predict(2,85)
+submit
+submit
+predict
+predict(2,85)
+predict(85,2)
+predict
+predict(85,2)
+predict(2,85)
+predict(85,45)
+predict
+predict(85,45)
+predict(85,2)
+predict(2,2)
+submit
+predict(1,45)
+predict(45,1)
+predict(0.45,1)
+predict(1, 0.45)
+predict(2, 0.85)
+submit
+predict(0.45, 0.85)
+predict(45, 85)
+predict(0.45, 0.85)
+predict
+predict(0.45, 0.85)
+ex2_reg
+submit
+predict
+submit
+submit
+ex2_reg
+costFunctionReg
+ex2_reg
+submit
+costFunctionReg
+ex2_reg
+submit
+# Octave 5.1.0, Tue Jul 16 18:38:55 2019 GMT <unknown@WGD02RTI649>
+submit
+submit
+cd 'C:\Users\Aleksandr.Shatskikh\Documents\Learning\coursera ML\machine-learning-ex2\ex3'
+cd 'C:\Users\Aleksandr.Shatskikh\Documents\Learning\coursera ML\machine-learning-ex3'
+cd 'C:\Users\Aleksandr.Shatskikh\Documents\Learning\coursera ML\machine-learning-ex3\'
+cd 'C:\Users\Aleksandr.Shatskikh\Documents\Learning\coursera ML\'
+# Octave 5.1.0, Tue Jul 16 19:08:40 2019 GMT <unknown@WGD02RTI649>
+load('ex4weights.mat');
+nnCostFunction
+nnCostFunction(Theta1, Theta2)
+ex4m
+ex4m.m
+ex4
+_nnCostFunction
+ex4
+ex4
+# Octave 5.1.0, Fri Aug 23 09:11:47 2019 GMT <unknown@WGD02RTI649>
